@@ -7,7 +7,7 @@ verify_ssl = true
 autopep8="*"
 
 [packages]
-django = "==2.2.13"
+django = "==2.2.20"
 django-cors-headers = "*"
 django-heroku = "*"
 gunicorn = "*"
